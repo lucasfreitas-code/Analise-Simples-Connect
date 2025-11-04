@@ -1,2 +1,16 @@
-# Analise-Simples-Connect
-Dashboard de análise empresarial com Python, Pandas e Streamlit. Inclui análise de lucro, vendas, clientes e fornecedores.
+# Simples Connect — SaaS de Análise Comercial
+
+Sistema de BI e relatórios corporativos em Python + Streamlit.
+
+## 🧠 Funcionalidades
+- Upload de planilhas
+- Dashboard financeiro
+- Cálculo de lucro, margem, ticket médio
+- Exportação PDF
+- Tema Pink & Black corporativo
+
+## 🚀 Executar localmente
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+
