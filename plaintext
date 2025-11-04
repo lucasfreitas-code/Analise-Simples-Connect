@@ -1,0 +1,15 @@
+simples-connect-analytics/
+│── app.py
+│── requirements.txt
+│── README.md
+│── assets/
+│   ├── logo.png   ← (adicione sua logo aqui)
+│   └── style.css
+│── pages/
+│   ├── 1_📊_Dashboard.py
+│   ├── 2_📂_Upload_e_Processamento.py
+│   └── 3_📥_Exportar_PDF.py
+│── utils/
+    ├── data_loader.py
+    ├── data_processing.py
+    └── pdf_generator.py
